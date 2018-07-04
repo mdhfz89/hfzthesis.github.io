@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Hafiz's GitHub Page.
 
-You can use the [editor on GitHub](https://github.com/mdhfz89/hfzthesis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is for access to figures and tables from my thesis that are:
+1. Too long, or
+2. Not possible to be viewed on paper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Thesis information
+```markdown
+
+**_Title_**
+The role of bacteriophage in structuring microbial communities in wastewater treatment systems
+
+by Muhammad Hafiz Bin Ismail
+
+For thesis submitted to the Nanyang Technological University in partial fulfilment of the requirement for the degree of Doctor of Philosophy
+
+```
 
 ### Markdown
 
