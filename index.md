@@ -15,47 +15,27 @@ by Muhammad Hafiz Bin Ismail
 For thesis submitted to the Nanyang Technological University in partial fulfilment of the requirement for the degree of Doctor of Philosophy
 
 ```
+
 ### Chapter 2
 #### Bacteriophages in the initiation of granulation in an aerobic granulating system
 
 Figure 2.6. (interactive)
 
-[link](https://goo.gl/vmgNhp)
+[link](https://goo.gl/Z8j8xq)
 
 Appendix Figure 4. (interactive)
 
-[link](https://goo.gl/8ub8Ls)
+[link](https://goo.gl/86MEgy)
 
 
+### Chapter 4
+#### The repressor C of the Pseudomonas aeruginosa PAO1 filamentous phages and their role in regulation
 
-### Markdown
+Appendix Table 3. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[link](https://goo.gl/dHNRdS)
 
-```markdown
-Syntax highlighted code block
+Appendix Table 4. Peaks of Pf6 RepC identified by MACS2
 
-# Header 1
-## Header 2
-### Header 3
+[link](https://goo.gl/1uWm1o)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdhfz89/hfzthesis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
