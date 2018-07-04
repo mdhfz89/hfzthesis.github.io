@@ -7,7 +7,7 @@ This page is for access to figures and tables from my thesis that are:
 ### Thesis information
 ```markdown
 
-**_Title_**
+**Project Title**
 The role of bacteriophage in structuring microbial communities in wastewater treatment systems
 
 by Muhammad Hafiz Bin Ismail
@@ -15,6 +15,15 @@ by Muhammad Hafiz Bin Ismail
 For thesis submitted to the Nanyang Technological University in partial fulfilment of the requirement for the degree of Doctor of Philosophy
 
 ```
+### Chapter 2
+#### Bacteriophages in the initiation of granulation in an aerobic granulating system
+
+Figure 2.6. (interactive)
+{% include Figure_2.6.html %}
+
+Appendix Figure 4. (interactive)
+{% include AppendixFigure04.html %}
+
 
 ### Markdown
 
