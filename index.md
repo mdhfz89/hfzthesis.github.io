@@ -18,9 +18,9 @@ For thesis submitted to the Nanyang Technological University in partial fulfilme
 ### Chapter 2
 #### Bacteriophages in the initiation of granulation in an aerobic granulating system
 
-Figure 2.6. (interactive)
+[Figure 2.6. (interactive)](https://goo.gl/9RHD9W)
 
-{% include test.html %}
+https://goo.gl/9RHD9W
 
 Appendix Figure 4. (interactive)
 
