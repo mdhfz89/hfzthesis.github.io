@@ -26,7 +26,7 @@ Figure 2.6. (interactive)
 
 [link](https://goo.gl/Z8j8xq)
 
-Appendix Figure 4. (interactive)
+Appendix Figure 4b. (interactive)
 
 [link](https://goo.gl/86MEgy)
 
