@@ -17,7 +17,7 @@ For thesis submitted to the Nanyang Technological University in partial fulfilme
 ```
 
 ### Chapter 2
-#### Bacteriophages in the initiation of granulation in an aerobic granulating system
+#### The role of bacteriophages in the formation of aerobic granules
 
 Figure 2.6. (interactive)
 
