@@ -8,11 +8,14 @@ This page is for access to figures and tables from my thesis that are:
 ```markdown
 
 **Project Title**
-The role of bacteriophage in structuring microbial communities in wastewater treatment systems
+The role of bacteriophage in structuring microbial communities 
+in wastewater treatment systems
 
 by Muhammad Hafiz Bin Ismail
 
-For thesis submitted to the Nanyang Technological University in partial fulfilment of the requirement for the degree of Doctor of Philosophy
+For thesis submitted to the Nanyang Technological University in 
+partial fulfilment of the requirement for the degree of 
+Doctor of Philosophy
 
 ```
 
