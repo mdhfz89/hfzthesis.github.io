@@ -44,7 +44,7 @@ Instructions for navigating the interactive graph:
 ### Chapter 4
 #### The repressor C of the Pseudomonas aeruginosa PAO1 filamentous phages and their role in regulation
 
-Appendix Table 3. 
+Appendix Table 3. Pf4 RepC binding regions detected by Virtual Footprint
 
 [link](https://goo.gl/dHNRdS)
 
