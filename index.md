@@ -50,15 +50,15 @@ Appendix Figure 4b. (interactive)
 
 Appendix Table 3. Pf4 RepC binding regions detected by Virtual Footprint
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/dHNRdS)
 
 Appendix Table 4. Peaks of Pf6 RepC identified by MACS2
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/1uWm1o)
 
 Appendix Table 5. Pf6 RepC binding regions for all motifs
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/ds4TNK)
