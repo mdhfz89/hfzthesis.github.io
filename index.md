@@ -24,11 +24,16 @@ Doctor of Philosophy
 
 Figure 2.6. (interactive)
 
-[link](https://goo.gl/86MEgy)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed"></iframe>
+
+[For bigger view click here](https://goo.gl/86MEgy)
+
 
 Appendix Figure 4b. (interactive)
 
-[link](https://goo.gl/Z8j8xq)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed"></iframe>
+
+[For bigger view click here](https://goo.gl/9855vE)
 
 ```markdown
 Instructions for navigating the interactive graph:
