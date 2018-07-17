@@ -22,6 +22,16 @@ Doctor of Philosophy
 ### Chapter 2
 #### The role of bacteriophages in the formation of aerobic granules
 
+```markdown
+Instructions for navigating the interactive graph:
+1. Hover the mouse over bars/points to see the details.
+2. To see only a certain range of data points, double click the category in the legend on the right.
+3. To get back all the ranges, double click the same category in the legend.
+4. Single-clicking the category in the legend will hide/unhide that category.
+5. To zoom in the graph, drag an area of interest.
+6. To unzoom the graph, double click within the graph area.
+```
+
 Figure 2.6. (interactive)
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed"></iframe>
@@ -34,17 +44,6 @@ Appendix Figure 4b. (interactive)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed"></iframe>
 
 [For bigger view click here](https://goo.gl/9855vE)
-
-```markdown
-Instructions for navigating the interactive graph:
-1. Hover the mouse over bars/points to see the details.
-2. To see only a certain range of data points, double click the category in the legend on the right.
-3. To get back all the ranges, double click the same category in the legend.
-4. Single-clicking the category in the legend will hide/unhide that category.
-5. To zoom in the graph, drag an area of interest.
-6. To unzoom the graph, double click within the graph area.
-```
-
 
 ### Chapter 4
 #### The repressor C of the Pseudomonas aeruginosa PAO1 filamentous phages and their role in regulation
