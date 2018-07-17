@@ -24,11 +24,11 @@ Doctor of Philosophy
 
 Figure 2.6. (interactive)
 
-[link](https://goo.gl/Z8j8xq)
+[link](https://goo.gl/86MEgy)
 
 Appendix Figure 4b. (interactive)
 
-[link](https://goo.gl/86MEgy)
+[link](https://goo.gl/Z8j8xq)
 
 ```markdown
 Instructions for navigating the interactive graph:
