@@ -60,5 +60,5 @@ Appendix Table 4. Peaks of Pf6 RepC identified by MACS2
 
 Appendix Table 5. Pf6 RepC binding regions for all motifs
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?gid=94231731&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/ds4TNK)
