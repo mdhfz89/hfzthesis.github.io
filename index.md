@@ -32,33 +32,33 @@ Instructions for navigating the interactive graph:
 6. To unzoom the graph, double click within the graph area.
 ```
 
-Figure 2.6. (interactive)
+__Figure 2.6. (interactive)__
 
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed?showlink=false"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed?showlink=false"></iframe>
 
 [For bigger view click here](https://goo.gl/86MEgy)
 
 
-Appendix Figure 4b. (interactive)
+__Appendix Figure 4b. (interactive)__
 
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed?showlink=false"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed?showlink=false"></iframe>
 
 [For bigger view click here](https://goo.gl/9855vE)
 
 ### Chapter 4
 #### The repressor C of the Pseudomonas aeruginosa PAO1 filamentous phages and their role in regulation
 
-Appendix Table 3. Pf4 RepC binding regions detected by Virtual Footprint
+__Appendix Table 3__
 
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/dHNRdS)
 
-Appendix Table 4. Peaks of Pf6 RepC identified by MACS2
+__Appendix Table 4__
 
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/1uWm1o)
 
-Appendix Table 5. Pf6 RepC binding regions for all motifs
+__Appendix Table 5__
 
-<iframe width="900" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?gid=94231731&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?gid=94231731&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 [link](https://goo.gl/ds4TNK)
