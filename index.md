@@ -1,4 +1,3 @@
-<link href="/hfzthesis.github.io/css/main.css" rel="stylesheet"></link>
 ## Welcome to Hafiz's GitHub Page.
 
 This page is for access to figures and tables from my thesis that are:
