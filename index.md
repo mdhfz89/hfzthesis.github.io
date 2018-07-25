@@ -34,14 +34,14 @@ Instructions for navigating the interactive graph:
 
 __Figure 2.6. (interactive)__
 
-<iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed?showlink=false"></iframe>
+<iframe width="750" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/1.embed?showlink=false"></iframe>
 
 [For bigger view click here](https://goo.gl/86MEgy)
 
 
 __Appendix Figure 4b. (interactive)__
 
-<iframe width="700" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed?showlink=false"></iframe>
+<iframe width="750" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mdhfz_89/3.embed?showlink=false"></iframe>
 
 [For bigger view click here](https://goo.gl/9855vE)
 
