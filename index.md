@@ -51,14 +51,17 @@ __Appendix Figure 4b. (interactive)__
 __Appendix Table 10__
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 [link](https://goo.gl/dHNRdS){:target="_blank"}
 
 __Appendix Table 11__
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 [link](https://goo.gl/1uWm1o){:target="_blank"}
 
 __Appendix Table 12__
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?gid=94231731&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 [link](https://goo.gl/ds4TNK){:target="_blank"}
