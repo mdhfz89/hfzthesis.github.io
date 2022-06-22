@@ -50,7 +50,7 @@ __Appendix Figure 4b. (interactive)__
 
 __Appendix Table 5__
 
-<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsJzaex-8DrKqYmMaFjg78m5WZ7L2HnTPsvQ_IUUgJAbjjaS0ygQKGxhd0pyxcM9gt5x9eNnsFRBpO/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsJzaex-8DrKqYmMaFjg78m5WZ7L2HnTPsvQ_IUUgJAbjjaS0ygQKGxhd0pyxcM9gt5x9eNnsFRBpO/pubhtml?widget=false&embedded=true&amp;headers=false"></iframe>
 
 [link](https://goo.gl/a4M8Cw){:target="_blank"}
 
